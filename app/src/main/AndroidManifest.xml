@@ -3,7 +3,6 @@
     package="com.example.p000h15381.myapplication">
 
     <application
-    	android:label="modified"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher_round"
